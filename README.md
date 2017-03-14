@@ -18,20 +18,20 @@ We are looking for authors and subject matter experts to write the outstanding c
 
 You can contribute by: 
 
-* Reviewing the book's table of contents and pitching a contribution
+* Reviewing the book's [table of contents](https://github.com/open-organization-ambassadors/open-org-it-culture/blob/master/open_org_it_culture_toc.md) and pitching a contribution
 * Pointing potential authors to this project
-* Addressing an outstanding issue flagged in this repository
-* Reviewing page proofs and heling eliminate errors
-* Reviewing page proofs and developing end-of-chapter discussion questions and summary statements
+* Addressing an [outstanding issue](https://github.com/open-organization-ambassadors/open-org-it-culture/issues) flagged in this repository
+* Reviewing page proofs in this repository and recording errors
+* Reviewing page proofs in this repository and developing end-of-chapter discussion questions and summary statements
 * Suggesting a title for the book
 
 ## Project timeline
 
-March 20 - Announce project publicly  
-March 28 - Finalized table of content and author roster published  
-March 30 - Final book outline complete  
-April 7 - All chapter drafts due to Opensource.com team  
-April 15 - Drafts returned to authors for revision  
-May 1 - Final copy editing and production (layout/design) begins  
-May 25 - Project soft launch  
-June 1 - Project release
+March 20—Announce project publicly  
+March 28—Finalized table of content and author roster published  
+March 30—Final book outline complete  
+April 7—All chapter drafts due to Opensource.com team  
+April 15—Drafts returned to authors for revision  
+May 1—Final copy editing and production (layout/design) begins  
+May 25—Project soft launch  
+June 1—Project release
