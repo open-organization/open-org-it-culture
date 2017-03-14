@@ -2,8 +2,6 @@
 
 ## Introduction
 
-Introduction: The Open Organization comes to IT
-
 * "Introduction: The Open Organization comes to IT" by **UNKNOWN**
 
 ## Part 1: New Cultures
