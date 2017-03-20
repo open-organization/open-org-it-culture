@@ -2,6 +2,7 @@
 
 ## Introduction
 
+* "Preface: On editing an open book" by Bryan Behrenshausen
 * "Introduction: The Open Organization comes to IT" by **UNKNOWN**
 
 ## Part 1: New Cultures
