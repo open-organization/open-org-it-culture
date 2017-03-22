@@ -33,11 +33,3 @@
 * "Creating a blameless culture" by Dave Zwieback
 * "Hiring with culture in mind" by Julie Gunderson
 * "Section review" by the editors and community
-
-## Potential additions
-
-* The value of building a knowledge commons
-* Best practices for building a knowledge commons
-* Identifying the most important skills necessary today
-* Methods for defining "done" in an environment of continuous delivery
-* Using agile methods with upstream communities, distributed groups, and/or volunteers
