@@ -21,7 +21,7 @@
 
 ## Part 2: New Skills
 
-* "Introduction" by **UNKNOWN**
+* "Introduction" by Jason Yee
 * "How to strengthen your agile heartbeat with powerful retrospectives" by Matt Thompson
 * "Doing things right and doing the right things" by Allison Matlack
 * "The benefits of tracking issues publicly" by Chad Whitacre
@@ -29,7 +29,7 @@
 * "Mastering feedback loops" by **UNKNOWN**
 * "Making open source fashionable" by Lauri Apple
 * Leveraging the power of impact mapping by **UNKNOWN**
-* "Assuming positive intent when working across teams" by **UNKNOWN**
+* "Assuming positive intent when working across teams" by Jonas Rosland
 * "Creating a blameless culture" by **UNKNOWN**
 * "Hiring with culture in mind" by Julie Gunderson
 * "Section review" by the editors and community
