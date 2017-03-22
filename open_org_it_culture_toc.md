@@ -8,7 +8,7 @@
 ## Part 1: New Cultures
 
 * "Introduction" by Mike Walker
-* "What is an IT culture?" by **UNKNOWN**
+* "What is an IT culture?" by Jono Bacon
 * "Organizational learning: a new perspective on DevOps" by Gene Kim
 * "Innovation requires new approaches to feedback and failure" by Jim Whitehurst
 * "The nature of accountability in IT cultures" by Gordon Haff
