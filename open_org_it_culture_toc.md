@@ -30,7 +30,7 @@
 * "Making open source fashionable" by Lauri Apple
 * Leveraging the power of impact mapping by **UNKNOWN**
 * "Assuming positive intent when working across teams" by Jonas Rosland
-* "Creating a blameless culture" by **UNKNOWN**
+* "Creating a blameless culture" by Dave Zwieback
 * "Hiring with culture in mind" by Julie Gunderson
 * "Section review" by the editors and community
 
