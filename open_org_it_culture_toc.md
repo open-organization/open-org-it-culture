@@ -26,7 +26,7 @@
 * "Doing things right and doing the right things" by Allison Matlack
 * "The benefits of tracking issues publicly" by Chad Whitacre
 * "Onboarding for an agile team" by Jen Krieger
-* "Mastering feedback loops" by **UNKNOWN**
+* "Mastering feedback loops" by Jimmy Sjölund
 * "Making open source fashionable" by Lauri Apple
 * Leveraging the power of impact mapping by **UNKNOWN**
 * "Assuming positive intent when working across teams" by Jonas Rosland
