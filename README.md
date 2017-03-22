@@ -27,7 +27,7 @@ You can contribute by:
 
 ## Project timeline
 
-March 20—Announce project publicly  
+~~March 22—Announce project publicly~~  
 March 28—Finalized table of content and author roster published  
 March 30—Final book outline complete  
 April 7—All chapter drafts due to Opensource.com team  
