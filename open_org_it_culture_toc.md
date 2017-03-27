@@ -27,6 +27,7 @@
 * "The benefits of tracking issues publicly" by Chad Whitacre
 * "Onboarding for an agile team" by Jen Krieger
 * "Mastering feedback loops" by Jimmy Sjölund
+* "What to do when your open team has imposter syndrome" by Laura Hilliger
 * "Making open source fashionable" by Lauri Apple
 * Leveraging the power of impact mapping by **UNKNOWN**
 * "Assuming positive intent when working across teams" by Jonas Rosland
