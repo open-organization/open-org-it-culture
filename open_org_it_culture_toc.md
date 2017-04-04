@@ -9,12 +9,12 @@
 
 * "Introduction" by Mike Walker
 * "What is an IT culture?" by Jono Bacon
-* "Organizational learning: a new perspective on DevOps" by Gene Kim
+* "Organizational learning: A new perspective on DevOps" by Gene Kim
 * "Innovation requires new approaches to feedback and failure" by Jim Whitehurst
 * "The nature of accountability in IT cultures" by Gordon Haff
 * "Culture trumps tools every time" by Matt Micene
-* "Developing a culture where people can speak up" by Nick Hall
-* "When a Buffer developer open sourced his code" by Jordan Morgan
+* "Transparency, failure, and other things I've learned to enjoy" by Nick Hall
+* "Why a Buffer developer open sourced his code" by Jordan Morgan
 * "How new communication technologies are affecting peer-to-peer engagement" by Ron McFarland
 * "What engineers and marketers can learn from each other" by Jackie Yeaney
 * "Section review" by the editors and community
