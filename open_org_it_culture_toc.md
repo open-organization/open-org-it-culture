@@ -17,7 +17,6 @@
 * "Why a Buffer developer open sourced his code" by Jordan Morgan
 * "How new communication technologies are affecting peer-to-peer engagement" by Ron McFarland
 * "What engineers and marketers can learn from each other" by Jackie Yeaney
-* "Section review" by the editors and community
 
 ## Part 2: New Skills
 
@@ -33,4 +32,3 @@
 * "Assuming positive intent when working across teams" by Jonas Rosland
 * "Creating a blameless culture" by Dave Zwieback
 * "Hiring with culture in mind" by Julie Gunderson
-* "Section review" by the editors and community
