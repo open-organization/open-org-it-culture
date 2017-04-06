@@ -28,7 +28,7 @@
 * "Mastering feedback loops" by Jimmy Sjölund
 * "What to do when your open team has imposter syndrome" by Laura Hilliger
 * "Making open source fashionable" by Lauri Apple
-* Leveraging the power of impact mapping by **UNKNOWN**
+* "Leveraging the power of impact mapping" by Justin Holmes
 * "Assuming positive intent when working across teams" by Jonas Rosland
 * "Creating a blameless culture" by Dave Zwieback
 * "Hiring with culture in mind" by Julie Gunderson
