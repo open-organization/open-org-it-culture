@@ -26,13 +26,13 @@ An _italicized_ title has been typeset and is available for review as part of th
 
 * "Introduction" by Jason Yee
 * _"How to strengthen your agile heartbeat with powerful retrospectives" by Matt Thompson_
-* _"When innovation trumps procedure" by Allison Matlack_
 * _"The benfits of tracking issues publicly" by Chad Whitacre_
 * "Onboarding for an agile team" by Jen Krieger
 * "The five laws of DevOps" by Chris Short
 * "Mastering feedback loops" by Jimmy Sjölund
 * "Working outside your comfort zone" by DeLisa Alexander
-* "What to do when your open team has imposter syndrome" by Laura Hilliger
+* _"What to do when your open team has imposter syndrome" by Laura Hilliger_
+* _"When innovation trumps procedure" by Allison Matlack_
 * _"Making open source fashionable" by Lauri Apple_
 * "Leveraging the power of impact mapping" by Justin Holmes
 * "Assuming positive intent when working across teams" by Jonas Rosland
