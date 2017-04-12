@@ -14,7 +14,7 @@ An _italicized_ title has been typeset and is available for review as part of th
 * _"Organizational learning: A new perspective on DevOps" by Gene Kim_
 * _"Innovation requires new approaches to feedback and failure" by Jim Whitehurst_
 * _"The nature of accountability in IT cultures" by Gordon Haff_
-* "Culture trumps tools every time" by Matt Micene
+* "Changing our approach to change" by Matt Micene
 * "The benefits of productive debate" by Rebecca Fernandez
 * _"Transparency, failure, and other things I've learned to enjoy" by Nick Hall_
 * _"Why a Buffer developer open sourced his code" by Jordan Morgan_
@@ -29,6 +29,7 @@ An _italicized_ title has been typeset and is available for review as part of th
 * _"When innovation trumps procedure" by Allison Matlack_
 * _"The benfits of tracking issues publicly" by Chad Whitacre_
 * "Onboarding for an agile team" by Jen Krieger
+* "The five laws of DevOps" by Chris Short
 * "Mastering feedback loops" by Jimmy Sjölund
 * "Working outside your comfort zone" by DeLisa Alexander
 * "What to do when your open team has imposter syndrome" by Laura Hilliger
