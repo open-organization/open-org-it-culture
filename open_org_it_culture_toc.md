@@ -13,10 +13,10 @@ An _italicized_ title has been typeset and is available for review as part of th
 * "What is an IT culture?" by Jono Bacon
 * _"Organizational learning: A new perspective on DevOps" by Gene Kim_
 * _"Innovation requires new approaches to feedback and failure" by Jim Whitehurst_
-* _"The nature of accountability in IT cultures" by Gordon Haff_
 * "Changing our approach to change" by Matt Micene
-* "The benefits of productive debate" by Rebecca Fernandez
 * _"Transparency, failure, and other things I've learned to enjoy" by Nick Hall_
+* _"The nature of accountability in IT cultures" by Gordon Haff_
+* _"Why you should build a team of boundary spanners" by DeLisa Alexander_
 * _"Why a Buffer developer open sourced his code" by Jordan Morgan_
 * "A new approach to operations" by Chrissy Linzy
 * _"How new communication technologies are affecting peer-to-peer engagement" by Ron McFarland_
@@ -27,10 +27,10 @@ An _italicized_ title has been typeset and is available for review as part of th
 * "Introduction" by Jason Yee
 * _"How to strengthen your agile heartbeat with powerful retrospectives" by Matt Thompson_
 * _"The benfits of tracking issues publicly" by Chad Whitacre_
+* _"Three essential skills for fostering productive debate" by Rebecca Fernandez_
 * "Onboarding for an agile team" by Jen Krieger
 * "The five laws of DevOps" by Chris Short
 * "Mastering feedback loops" by Jimmy Sjölund
-* "Working outside your comfort zone" by DeLisa Alexander
 * _"What to do when your open team has imposter syndrome" by Laura Hilliger_
 * _"When innovation trumps procedure" by Allison Matlack_
 * _"Making open source fashionable" by Lauri Apple_
