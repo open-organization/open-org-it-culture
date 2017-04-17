@@ -13,9 +13,9 @@ An _italicized_ title has been typeset and is available for review as part of th
 * "What is an IT culture?" by Jono Bacon
 * _"Organizational learning: A new perspective on DevOps" by Gene Kim_
 * _"Innovation requires new approaches to feedback and failure" by Jim Whitehurst_
-* "Changing our approach to change" by Matt Micene
 * _"Transparency, failure, and other things I've learned to enjoy" by Nick Hall_
 * _"The nature of accountability in IT cultures" by Gordon Haff_
+* _"Changing our approach to change" by Matt Micene_
 * _"Why you should build a team of boundary spanners" by DeLisa Alexander_
 * _"Why a Buffer developer open sourced his code" by Jordan Morgan_
 * "A new approach to operations" by Chrissy Linzy
