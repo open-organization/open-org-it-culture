@@ -16,6 +16,7 @@ An _italicized_ title has been typeset and is available for review as part of th
 * _"Transparency, failure, and other things I've learned to enjoy" by Nick Hall_
 * _"The nature of accountability in IT cultures" by Gordon Haff_
 * _"Changing our approach to change" by Matt Micene_
+* _"Five laws every aspiring DevOps engineer should know" by Chris Short_
 * _"Why you should build a team of boundary spanners" by DeLisa Alexander_
 * _"Why a Buffer developer open sourced his code" by Jordan Morgan_
 * "A new approach to operations" by Chrissy Linzy
@@ -29,7 +30,6 @@ An _italicized_ title has been typeset and is available for review as part of th
 * _"The benfits of tracking issues publicly" by Chad Whitacre_
 * _"Three essential skills for fostering productive debate" by Rebecca Fernandez_
 * "Onboarding for an agile team" by Jen Krieger
-* "The five laws of DevOps" by Chris Short
 * "Mastering feedback loops" by Jimmy Sjölund
 * _"What to do when your open team has imposter syndrome" by Laura Hilliger_
 * _"When innovation trumps procedure" by Allison Matlack_
