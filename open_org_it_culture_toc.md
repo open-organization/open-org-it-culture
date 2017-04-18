@@ -10,15 +10,15 @@ An _italicized_ title has been typeset and is available for review as part of th
 ## Part 1: New Cultures
 
 * "Introduction" by Mike Walker
-* "What is an IT culture?" by Jono Bacon
+* _"What's an IT culture, anyway?" by Jono Bacon_
 * _"Organizational learning: A new perspective on DevOps" by Gene Kim_
 * _"Innovation requires new approaches to feedback and failure" by Jim Whitehurst_
 * _"Transparency, failure, and other things I've learned to enjoy" by Nick Hall_
-* _"The nature of accountability in IT cultures" by Gordon Haff_
-* _"Changing our approach to change" by Matt Micene_
+* _"Why a Buffer developer open sourced his code" by Jordan Morgan_
+* _"A user's guide to failing faster" by Gordon Haff_
+* _"Changing the way we think of change" by Matt Micene_
 * _"Five laws every aspiring DevOps engineer should know" by Chris Short_
 * _"Why you should build a team of boundary spanners" by DeLisa Alexander_
-* _"Why a Buffer developer open sourced his code" by Jordan Morgan_
 * "A new approach to operations" by Chrissy Linzy
 * _"How new communication technologies are affecting peer-to-peer engagement" by Ron McFarland_
 * _"What engineers and marketers can learn from each other" by Jackie Yeaney_
