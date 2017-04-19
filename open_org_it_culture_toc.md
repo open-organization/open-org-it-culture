@@ -29,11 +29,11 @@ An _italicized_ title has been typeset and is available for review as part of th
 * _"How to strengthen your agile heartbeat with powerful retrospectives" by Matt Thompson_
 * _"The benfits of tracking issues publicly" by Chad Whitacre_
 * _"Three essential skills for fostering productive debate" by Rebecca Fernandez_
-* "Mastering feedback loops" by Jimmy Sjölund
+* _"Mastering feedback loops" by Jimmy Sjölund_
 * _"What to do when your open team has imposter syndrome" by Laura Hilliger_
 * _"When innovation trumps procedure" by Allison Matlack_
 * _"Making open source fashionable" by Lauri Apple_
-* _"Onboarding for an agile team" by Jen Krieger and Hina Popal_
+* _"Forming and onboarding an agile team" by Jen Krieger and Hina Popal_
 * "Leveraging the power of impact mapping" by Justin Holmes
 * "Assuming positive intent when working across teams" by Jonas Rosland
 * "Creating a blameless culture" by Dave Zwieback
