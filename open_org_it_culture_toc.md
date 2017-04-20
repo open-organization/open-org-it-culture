@@ -5,7 +5,7 @@ An _italicized_ title has been typeset and is available for review as part of th
 ## Introduction
 
 * "Preface: On editing an open book" by Bryan Behrenshausen
-* "Introduction: The Open Organization comes to IT" by **UNKNOWN**
+* "Introduction: The Open Organization comes to IT" by Mike Kelly
 
 ## Part 1: New Cultures
 
