@@ -34,6 +34,7 @@ An _italicized_ title has been typeset and is available for review as part of th
 * _"When innovation trumps procedure" by Allison Matlack_
 * _"Making open source fashionable" by Lauri Apple_
 * _"Forming and onboarding an agile team" by Jen Krieger and Hina Popal_
+* _"A formula for running an accountable IT organization" by Stephen Gold_
 * "Leveraging the power of impact mapping" by Justin Holmes
 * "Assuming positive intent when working across teams" by Jonas Rosland
 * "Creating a blameless culture" by Dave Zwieback
