@@ -32,7 +32,7 @@ An _italicized_ title has been typeset and is available for review as part of th
 * _"Mastering feedback loops" by Jimmy Sjölund_
 * _"What to do when your open team has imposter syndrome" by Laura Hilliger_
 * _"When innovation trumps procedure" by Allison Matlack_
-* _"Making open source fashionable" by Lauri Apple_
+* _"Better IT culture via the Socratic method" by Lauri Apple_
 * _"Forming and onboarding an agile team" by Jen Krieger and Hina Popal_
 * _"A formula for running an accountable IT organization" by Stephen Gold_
 * "Leveraging the power of impact mapping" by Justin Holmes
