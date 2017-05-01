@@ -34,4 +34,4 @@ You can contribute by:
 ~~April 17 (week of)—Drafts returned to authors for revision~~  
 May 1—Final copy editing and production (layout/design) begins  
 May 29—Project soft launch  
-June 1—Project release
+June 2—Project release
