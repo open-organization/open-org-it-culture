@@ -35,5 +35,5 @@ An _italicized_ title has been typeset and is available for review as part of th
 * _"Better IT culture via the Socratic method" by Lauri Apple_
 * _"Forming and onboarding an agile team" by Jen Krieger and Hina Popal_
 * _"A formula for running an accountable IT organization" by Stephen Gold_
-* "Leveraging the power of impact mapping" by Justin Holmes
+* _"Institutionalizing experimentation with impact mapping" by Justin Holmes_
 * "Assuming positive intent when working across teams" by Jonas Rosland
