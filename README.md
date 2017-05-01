@@ -31,7 +31,7 @@ You can contribute by:
 ~~March 28—Finalized table of content and author roster published~~  
 ~~March 30—Final book outline complete~~  
 ~~April 7—All chapter drafts due to Opensource.com team~~  
-April 17 (week of)—Drafts returned to authors for revision  
+~~April 17 (week of)—Drafts returned to authors for revision~~  
 May 1—Final copy editing and production (layout/design) begins  
-May 25—Project soft launch  
+May 29—Project soft launch  
 June 1—Project release

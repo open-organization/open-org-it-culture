@@ -37,4 +37,3 @@ An _italicized_ title has been typeset and is available for review as part of th
 * _"A formula for running an accountable IT organization" by Stephen Gold_
 * "Leveraging the power of impact mapping" by Justin Holmes
 * "Assuming positive intent when working across teams" by Jonas Rosland
-* "Hiring with culture in mind" by Julie Gunderson
