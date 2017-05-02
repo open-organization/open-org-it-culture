@@ -19,7 +19,7 @@ An _italicized_ title has been typeset and is available for review as part of th
 * _"Changing the way we think of change" by Matt Micene_
 * _"Five laws every aspiring DevOps engineer should know" by Chris Short_
 * _"Why you should build a team of boundary spanners" by DeLisa Alexander_
-* "A new approach to operations" by Chrissy Linzy
+* _"A new approach to operations" by Chrissy Linzy_
 * _"How new communication technologies are affecting peer-to-peer engagement" by Ron McFarland_
 * _"What engineers and marketers can learn from each other" by Jackie Yeaney_
 
@@ -36,4 +36,4 @@ An _italicized_ title has been typeset and is available for review as part of th
 * _"Forming and onboarding an agile team" by Jen Krieger and Hina Popal_
 * _"A formula for running an accountable IT organization" by Stephen Gold_
 * _"Institutionalizing experimentation with impact mapping" by Justin Holmes_
-* "Assuming positive intent when working across teams" by Jonas Rosland
+* _"Assuming positive intent when working across teams" by Jonas Rosland_
