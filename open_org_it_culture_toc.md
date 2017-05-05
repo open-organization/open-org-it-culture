@@ -4,10 +4,10 @@ An _italicized_ title has been typeset and is available for review as part of th
 
 ## Introduction
 
-* "Preface: On editing an open book" by Bryan Behrenshausen
+* _"Preface" by Bryan Behrenshausen_
 * "Introduction: The Open Organization comes to IT" by Mike Kelly
 
-## Part 1: New Cultures
+## Part 1: Principles
 
 * "Introduction" by Mike Walker
 * _"What's an IT culture, anyway?" by Jono Bacon_
@@ -23,7 +23,7 @@ An _italicized_ title has been typeset and is available for review as part of th
 * _"How new communication technologies are affecting peer-to-peer engagement" by Ron McFarland_
 * _"What engineers and marketers can learn from each other" by Jackie Yeaney_
 
-## Part 2: New Skills
+## Part 2: Practices
 
 * "Introduction" by Jason Yee
 * _"How to strengthen your agile heartbeat with powerful retrospectives" by Matt Thompson_
