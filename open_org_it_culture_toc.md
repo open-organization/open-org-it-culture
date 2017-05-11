@@ -5,7 +5,7 @@ An _italicized_ title has been typeset and is available for review as part of th
 ## Introduction
 
 * _"Preface" by Bryan Behrenshausen_
-* "Introduction: The Open Organization comes to IT" by Mike Kelly
+* _"Introduction: The Open Organization comes to IT" by Mike Kelly_
 
 ## Part 1: Principles
 
