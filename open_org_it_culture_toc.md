@@ -25,7 +25,7 @@ An _italicized_ title has been typeset and is available for review as part of th
 
 ## Part 2: Practices
 
-* "Introduction" by Jason Yee
+* _"Introduction" by Jason Yee_
 * _"How to strengthen your agile heartbeat with powerful retrospectives" by Matt Thompson_
 * _"The benfits of tracking issues publicly" by Chad Whitacre_
 * _"Three essential skills for fostering productive debate" by Rebecca Fernandez_
