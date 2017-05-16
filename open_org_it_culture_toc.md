@@ -5,11 +5,11 @@ An _italicized_ title has been typeset and is available for review as part of th
 ## Introduction
 
 * _"Preface" by Bryan Behrenshausen_
-* _"Introduction: The Open Organization comes to IT" by Mike Kelly_
+* _"Introduction" by Mike Kelly_
 
 ## Part 1: Principles
 
-* "Introduction" by Mike Walker
+* _"Introduction to Part 1" by Mike Walker_
 * _"What's an IT culture, anyway?" by Jono Bacon_
 * _"Organizational learning: A new perspective on DevOps" by Gene Kim_
 * _"Innovation requires new approaches to feedback and failure" by Jim Whitehurst_
@@ -25,7 +25,7 @@ An _italicized_ title has been typeset and is available for review as part of th
 
 ## Part 2: Practices
 
-* _"Introduction" by Jason Yee_
+* _"Introduction to Part 2" by Jason Yee_
 * _"How to strengthen your agile heartbeat with powerful retrospectives" by Matt Thompson_
 * _"The benfits of tracking issues publicly" by Chad Whitacre_
 * _"Three essential skills for fostering productive debate" by Rebecca Fernandez_
