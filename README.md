@@ -33,6 +33,7 @@ You can contribute by:
 ~~April 7—All chapter drafts due to Opensource.com team~~  
 ~~April 17 (week of)—Drafts returned to authors for revision~~  
 ~~May 1—Final copy editing and production (layout/design) begins~~  
-May 15—Final proofing and typesetting of introductions begins  
+~~May 15—Final proofing and typesetting of introductions begins~~  
+May 22 (week of)—Final copy editing occurs; physical prototyping begins  
 May 29—Project soft launch  
 June 2—Project release
