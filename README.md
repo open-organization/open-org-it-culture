@@ -1,39 +1,21 @@
 # The Open Organization Guide to IT Culture Change
 
-## Purpose
+This respository contains files related to [_The Open Organization Leaders Manual_](https://opensource.com/open-organization/resources/culture-change), a community-produced companion to Jim Whitehurst's 2015 book, _The Open Organization_ (Harvard Business Review Press).
 
-The open organization community at Opensource.com is preparing a new volume in the [_Open Organization_ book series](https://opensource.com/open-organization/resources).
+_The Open Organization Guide to IT Culture Change_ is the fifth book in the [_Open Organization_ book series](https://opensource.com/open-organization/resources).
 
-This volume will highlight the intersection of issues related to organizational culture, open organizational models, and agility-focused management paradigms in IT shops (e.g., scrum, agile, DevOps, etc.). The book should serve as a useful resource for anyone interested in the ways that buidling team cultures on open principles can help people address digital transformation and rethink their IT organizations.
+## About the book
 
-## Background
+The pace of business is accelerating, and organizations are demanding more from their information technology teams. They need IT departments that act as hubs of innovation, not just cost centers.
 
-The open organization community has contributed markedly to ongoing conversations about the ways that open principles will continue to transform traditional IT strategies, organizations, and practices. We can collect our IT-focused content—and solicit additional content that expands on it—into a downloadable and print-on-demand resource. As much as possible, we'll develop it using open methods and open tools. We do believe it might be the first book created according to the [Open Decision Framework](https://opensource.com/open-organization/resources/open-decision-framework)!
+As IT teams around the world rise to these new challenges, they're realizing that radical change isn't a matter of tools alone. It's also a matter of culture—the values that underpin behaviors, influence problem-solving capability, and facilitate truly revolutionary potential. Those values are open values.
 
-Our vision is a volume divided into two principal sections: One focused on "culture" and one focused on "skills." Each section would itself feature a custom-written introduction commissioned specifically for the book, as well as a specialized set of discussion questions, key takeaways, and management tips for anyone wishing to treat the volume like a handbook during change management efforts.
+And forward-thinking IT organizations are leveraging those principles. They're becoming more transparent, more collaborative, more mission-driven, and more agile to transform the way they work. In this book, more than 20 contributors from open source communities, companies, and projects offer hard-won lessons and practical advice for creating a more open IT department—one that can deliver better, faster results and unparalleled business value.
 
-## Contributing
+## Repository contents
 
-We are looking for authors and subject matter experts to write the outstanding chapters or connect us with others who might be a great fit.
+In this repository, please find:
 
-You can contribute by: 
-
-* Reviewing the book's [table of contents](https://github.com/open-organization-ambassadors/open-org-it-culture/blob/master/open_org_it_culture_toc.md) and pitching a contribution
-* Pointing potential authors to this project
-* Addressing an [outstanding issue](https://github.com/open-organization-ambassadors/open-org-it-culture/issues) flagged in this repository
-* Reviewing page proofs in this repository and recording errors
-* Reviewing page proofs in this repository and developing end-of-chapter discussion questions and summary statements
-* Suggesting a title for the book
-
-## Project timeline
-
-~~March 22—Announce project publicly~~  
-~~March 28—Finalized table of content and author roster published~~  
-~~March 30—Final book outline complete~~  
-~~April 7—All chapter drafts due to Opensource.com team~~  
-~~April 17 (week of)—Drafts returned to authors for revision~~  
-~~May 1—Final copy editing and production (layout/design) begins~~  
-~~May 15—Final proofing and typesetting of introductions begins~~  
-~~May 22 (week of)—Final copy editing occurs; physical prototyping begins~~  
-May 30—Project soft launch  
-June 2—Project release
+* The book's cover (in .jpg, .pdf, and .tif formats)—**coming soon**
+* A "binary" copy of the book (in .pdf format)
+* "Source code" for the book (in .odt format)
