@@ -1,6 +1,6 @@
 # The Open Organization Guide to IT Culture Change
 
-This respository contains files related to [_The Open Organization Leaders Manual_](https://opensource.com/open-organization/resources/culture-change), a community-produced companion to Jim Whitehurst's 2015 book, _The Open Organization_ (Harvard Business Review Press).
+This respository contains files related to [_The Open Organization Guide to IT Culture Change_](https://opensource.com/open-organization/resources/culture-change), a community-produced companion to Jim Whitehurst's 2015 book, _The Open Organization_ (Harvard Business Review Press).
 
 _The Open Organization Guide to IT Culture Change_ is the fifth book in the [_Open Organization_ book series](https://opensource.com/open-organization/resources).
 
